@@ -1,2 +1,3 @@
 //Egg Briyani recipe
 Add 2 Egg
+Add 3 Teapsoon salt
